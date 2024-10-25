@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "a-logo-for-the-ios-app-smartshop-pos-with-a-blue-b-de0-uWlxRxqcZuLtZEeqwg-ahHZw8tLQSm6rbjCszOiag.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
